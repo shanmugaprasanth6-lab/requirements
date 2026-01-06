@@ -1,0 +1,21 @@
+
+    ->  What is Domain Requirements? Explain with examples :
+
+        * Domain requirements are the specific needs, rules, and constraints that come from the application
+domain (the environment or field where the system will operate).They reflect domain
+knowledge — that is, the expertise, standards, or regulations of a particular area
+such as banking, healthcare, education, or aviation.
+
+   ->   BENIFITS OF RTM :
+
+-> Completeness Check;
+     * Ensures all requirements are implemented and tested — no missing or overlooked functionality.
+
+-> Impact Analysis;
+     * When a requirement changes, RTM helps identify which test cases, design elements, or modules are affected.
+
+-> Improved Test Coverage;
+     * Ensures every requirement has at least one corresponding test case, leading to thorough validation.
+
+-> Requirement Validation;
+     * Confirms that all customer needs are correctly translated into design and testing activities.
